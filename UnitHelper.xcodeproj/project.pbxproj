@@ -137,11 +137,19 @@
 		83A3F7152330967F00C9CFF0 /* UnitHelper */ = {
 			isa = PBXGroup;
 			children = (
-				83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */,
-				83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */,
+				83F87B7F2330CF46001389AD /* Classes */,
 			);
 			path = UnitHelper;
 			sourceTree = SOURCE_ROOT;
+		};
+		83F87B7F2330CF46001389AD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */,
+				83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
