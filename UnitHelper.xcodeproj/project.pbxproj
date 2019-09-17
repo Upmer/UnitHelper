@@ -17,6 +17,9 @@
 		83A3F7172330968E00C9CFF0 /* LoggerMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */; };
 		83A3F7182330969100C9CFF0 /* LoggerMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */; };
 		83A3F7192330969100C9CFF0 /* LoggerMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */; };
+		83A3F71B2330BB7600C9CFF0 /* ViewPrintable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */; };
+		83A3F71C2330BBE100C9CFF0 /* ViewPrintable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */; };
+		83A3F71D2330BBE100C9CFF0 /* ViewPrintable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,7 @@
 		83A3F7072330965100C9CFF0 /* UnitHelperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitHelperUITests.swift; sourceTree = "<group>"; };
 		83A3F7092330965100C9CFF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggerMachine.swift; sourceTree = "<group>"; };
+		83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPrintable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				83A3F7162330968E00C9CFF0 /* LoggerMachine.swift */,
+				83A3F71A2330BB7600C9CFF0 /* ViewPrintable.swift */,
 			);
 			path = UnitHelper;
 			sourceTree = SOURCE_ROOT;
@@ -271,6 +276,7 @@
 			files = (
 				83A3F6EA2330965000C9CFF0 /* ViewController.swift in Sources */,
 				83A3F6E82330965000C9CFF0 /* AppDelegate.swift in Sources */,
+				83A3F71B2330BB7600C9CFF0 /* ViewPrintable.swift in Sources */,
 				83A3F7172330968E00C9CFF0 /* LoggerMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,6 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83A3F6FD2330965100C9CFF0 /* UnitHelperTests.swift in Sources */,
+				83A3F71C2330BBE100C9CFF0 /* ViewPrintable.swift in Sources */,
 				83A3F7182330969100C9CFF0 /* LoggerMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +296,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83A3F7082330965100C9CFF0 /* UnitHelperUITests.swift in Sources */,
+				83A3F71D2330BBE100C9CFF0 /* ViewPrintable.swift in Sources */,
 				83A3F7192330969100C9CFF0 /* LoggerMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
